@@ -1,0 +1,109 @@
+body {
+    padding: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+*{
+    margin:0%;
+    padding:0%;
+    text-decoration: none;
+}
+div {
+    justify-content: center;
+    align-items: center;
+    font-style: Museo;
+}
+ul{
+    list-style: none;
+    padding-top: 2%;
+    text-align: center;
+}
+.container {
+  top:0rem;
+  display: flex;
+  height: 90px;
+  width: 100%;
+  background: rgb(38, 56, 82);
+}
+
+.box {
+  width: 20%;
+  border: 2px solid #b8602e;
+  height: 70px;
+  background-color: white;
+}
+
+.div2{
+  width:95%;
+  height: 55px;
+  display: flex;
+  align-items: left;
+}
+.div2-a{
+  width:33.33%;
+  padding: 2%;
+  align-items: left;
+}
+
+hr{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.div2-b{
+    display: flex;
+  width:33.33%;
+  align-items: left;
+}
+.div2-c{
+  width:33.33%;
+}
+.div3{
+    width:95%;
+  display: flex;
+  align-items: left;
+}
+.div3-a{
+    width: 15%;
+    align-items: left;
+    padding-left: 0%;
+}
+.div3-b{
+    width: 60%;
+    align-items: left;
+}
+.div4{
+    width:95%;
+  display: flex;
+  align-items: left;
+}
+.div4-a{
+    width: 15%;
+    align-items: left;
+}
+.div4-b{
+    width: 60%;
+    align-items: left;
+}
+.div5{
+    width:95%;
+  display: flex;
+  align-items: left;
+}
+.div5-{
+    width: 5%;
+}
+.div5-a{
+    width: 15%;
+    align-items: left;
+}
+.div5-b{
+    width: 60%;
+    align-items: left;
+}
+.div-6{
+    display: flex;
+    bottom: 0;
+    width: 100%;
+    background: rgb(38, 56, 82);
+    height: 60px;
+}
